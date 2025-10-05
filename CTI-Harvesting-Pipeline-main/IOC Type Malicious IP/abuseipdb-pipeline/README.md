@@ -6,7 +6,7 @@ A pipeline to pull recent ThreatFox IOCs and store them in a local SQL database 
 
 Clone this repo
 ```bash
-git clone https://github.com/roy9495/CTI-Harvesting-Pipeline
+git clone https://github.com/rahulvala07/CTI-Harvesting-Pipeline-open-source
 cd abuseipdb-pipeline
 ```
 Create a virtual environment
